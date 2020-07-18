@@ -1,4 +1,206 @@
 <resources>
     <string name="app_name">Flashcards</string>
     <string name="title_home">Flashcards</string>
+    <string-array name="citizenship_flashcards">
+        <item>What is the supreme law of the land?</item>
+        <item>The Constitution</item>
+        <item>What does the Constitution do?</item>
+        <item>Sets up the government</item>
+        <item>The idea of self-government is in the first three words of the Constitution. What are these words?</item>
+        <item>We the People</item>
+        <item>What is an amendment?</item>
+        <item>A change to the Constitution</item>
+        <item>What do we call the first ten amendments to the Constitution?</item>
+        <item>The Bill of Rights</item>
+        <item>What is one right or freedom from the First Amendment?</item>
+        <item>Freedom of speech</item>
+        <item>How many amendments does the Constitution have?</item>
+        <item>27</item>
+        <item>What did the Declaration of Independence do?</item>
+        <item>Declared our independence from Great Britain</item>
+        <item>What are two rights in the Declaration of Independence?</item>
+        <item>Life / liberty / pursuit of happiness</item>
+        <item>What is freedom of religion?</item>
+        <item>You can practice any religion, or not practice a religion</item>
+        <item>What is the economic system in the United States?</item>
+        <item>Capitalist economy</item>
+        <item>What is the \'rule of law\'?</item>
+        <item>Everyone must follow the law.</item>
+        <item>Name one branch or part of the government</item>
+        <item>The President</item>
+        <item>What stops one branch of government from becoming too powerful?</item>
+        <item>Checks and balances</item>
+        <item>Who is in charge of the executive branch?</item>
+        <item>The President</item>
+        <item>Who makes federal laws?</item>
+        <item>Congress</item>
+        <item>What are the two parts of the U.S. Congress?</item>
+        <item>The Senate and the House of Representatives</item>
+        <item>How many U.S. Senators are there?</item>
+        <item>100</item>
+        <item>We elect a U.S. Senator for how many years? </item>
+        <item>6</item>
+        <item>Who is one of your state’s U.S. Senators now?</item>
+        <item>Kamala Harris</item>
+        <item>The House of Representatives has how many voting members? </item>
+        <item>435</item>
+        <item>We elect a U.S. Representative for how many years?</item>
+        <item>2</item>
+        <item>Name your U.S. Representative.</item>
+        <item>Nancy Pelosi</item>
+        <item>Who does a U.S. Senator represent?</item>
+        <item>All people of the state</item>
+        <item>Why do some states have more Representatives than other states?</item>
+        <item>The number of Representatives is based on the state\'s population</item>
+        <item>We elect a President for how many years?</item>
+        <item>4</item>
+        <item>In what month do we vote for President?</item>
+        <item>November</item>
+        <item>What is the name of the President of the United States now?</item>
+        <item>Donald Trump</item>
+        <item>What is the name of the Vice President of the United States now?</item>
+        <item>Mike Pence</item>
+        <item>If the President can no longer serve, who becomes President?</item>
+        <item>The Vice President</item>
+        <item>If both the President and the Vice President can no longer serve, who becomes President?</item>
+        <item>The Speaker of the House</item>
+        <item>Who is the Commander in Chief of the military?</item>
+        <item>The President</item>
+        <item>Who signs bills to become laws?</item>
+        <item>The President</item>
+        <item>Who vetos bills?</item>
+        <item>The President</item>
+        <item>What does the President\'s Cabinet do?</item>
+        <item>Advises the President</item>
+        <item>What are two Cabinet-level positions?</item>
+        <item>Vice President and Secretary of State</item>
+        <item>What does the judicial branch do?</item>
+        <item>Resolves disputes</item>
+        <item>What is the highest court in the United States?</item>
+        <item>The Supreme Court</item>
+        <item>How many justices are on the Supreme Court?</item>
+        <item>9</item>
+        <item>Who is the Chief Justice of the United States now?</item>
+        <item>John Roberts</item>
+        <item>Under our Constitution, some powers belong to the federal government. What is one power of the federal government?</item>
+        <item>Print money</item>
+        <item>Under our Constitution, some powers belong to the states. What is one power of the states?</item>
+        <item>Give a driver\'s license</item>
+        <item>Who is the Governor of your state now?</item>
+        <item>Gavin Newsom</item>
+        <item>What is the capital of your state?</item>
+        <item>Sacramento</item>
+        <item>What are the two major political parties in the United States?</item>
+        <item>Democratic and Republican</item>
+        <item>What is the political party of the President now?</item>
+        <item>Republican</item>
+        <item>What is the name of the Speaker of the House of Representatives now? </item>
+        <item>Nancy Pelosi</item>
+        <item>There are four amendments to the Constitution about who can vote. Describe one of them.</item>
+        <item>Women and men can vote</item>
+        <item>What is one responsibility that is only for United States Citizens?</item>
+        <item>Vote</item>
+        <item>Name one right only for United States citizens.</item>
+        <item>Vote in a federal election</item>
+        <item>What are two rights of everyone living in the United States?</item>
+        <item>Freedom of speech and freedom of religion</item>
+        <item>What do we show loyalty to when we say the Pledge of Allegiance?</item>
+        <item>The United States</item>
+        <item>What is one promise you make when you become a United States citizen?</item>
+        <item>To obey the laws of the United States</item>
+        <item>How old do citizens have to be to vote for President?</item>
+        <item>18+</item>
+        <item>What are two ways that Americans can participate in their democracy?</item>
+        <item>Vote, run for office</item>
+        <item>When is the last day you can send in federal income tax forms?</item>
+        <item>April 15</item>
+        <item>When must all men register for the Selective Service?</item>
+        <item>18</item>
+        <item>What is one reason colonists came to America?</item>
+        <item>Freedom</item>
+        <item>Who lived in America before the Europeans arrived?</item>
+        <item>Native Americans</item>
+        <item>What group of people were taken to America and sold as slaves?</item>
+        <item>Africans</item>
+        <item>Why did the colonists fight the British?</item>
+        <item>Because of high taxes</item>
+        <item>Who wrote the Declaration of Independence?</item>
+        <item>Thomas Jefferson</item>
+        <item>When was the Declaration of Independence adopted?</item>
+        <item>July 4, 1776</item>
+        <item>There were 13 original states. Name three.</item>
+        <item>New York, North Carolina, South Carolina</item>
+        <item>What happened at the Constitutional Convention?</item>
+        <item>The Constitution was written</item>
+        <item>When was the Constitution written?</item>
+        <item>1787</item>
+        <item>The Federalist Papers supported the passage of the U.S. Constitution. Name one of the writers.</item>
+        <item>Alexander Hamilton</item>
+        <item>What is one thing Benjamin Franklin is famous for?</item>
+        <item>U.S. Diplomat</item>
+        <item>Who is the \'Father of Our Country\'?</item>
+        <item>George Washington</item>
+        <item>Who was the first President?</item>
+        <item>George Washington</item>
+        <item>What territory did the United States buy from France in 1803?</item>
+        <item>Louisiana</item>
+        <item>Name one war fought by the United States in the 1800s.</item>
+        <item>War of 1812</item>
+        <item>Name the U.S. war between the North and the South</item>
+        <item>The Civil War</item>
+        <item>Name one problem that led to the Civil War.</item>
+        <item>Slavery</item>
+        <item>What was one important thing that Abraham Lincoln did?</item>
+        <item>Freed the slaves</item>
+        <item>What did the Emancipation Proclamation do?</item>
+        <item>Freed the slaves</item>
+        <item>What did Susan B. Anthony do?</item>
+        <item>Fought for women\'s rights</item>
+        <item>Name one war fought by the United States in the 1900s.</item>
+        <item>World War II</item>
+        <item>Who was President during World War I?</item>
+        <item>Wilson</item>
+        <item>Who was President during the Great Depression and World War II?</item>
+        <item>Franklin Roosevelt</item>
+        <item>Who did the United States fight in World War II?</item>
+        <item>Japan, Germany, and Italy</item>
+        <item>Before he was President, Eisenhower was a general. What war was he in?</item>
+        <item>World War II</item>
+        <item>During the Cold War, what was the main concern of the United States?</item>
+        <item>Communism</item>
+        <item>What movement tried to end racial discrimination?</item>
+        <item>civil rights (movement)</item>
+        <item>What did Martin Luther King, Jr. do?</item>
+        <item>Fought for civil rights</item>
+        <item>What major event happened on September 11, 2001, in the United States?</item>
+        <item>Terrorists attacked the United States</item>
+        <item>Name one American Indian tribe in the United States</item>
+        <item>Apache</item>
+        <item>Name one of the two longest rivers in the United States.</item>
+        <item>Mississippi</item>
+        <item>What ocean is on the West Coast of the United States?</item>
+        <item>Pacific Ocean</item>
+        <item>What ocean is on the East Coast of the United States?</item>
+        <item>Atlantic Ocean</item>
+        <item>Name one U.S. territory.</item>
+        <item>Puerto Rico</item>
+        <item>Name one state that borders Canada.</item>
+        <item>Washington</item>
+        <item>Name one state that borders Mexico.</item>
+        <item>California</item>
+        <item>What is the capital of the United States?</item>
+        <item>Washington, D.C.</item>
+        <item>Where is the Statue of Liberty?</item>
+        <item>New York Harbor</item>
+        <item>Why does the flag have 13 stripes?</item>
+        <item>There were 13 original colonies</item>
+        <item>Why does the flag have 50 stars?</item>
+        <item>There are 50 states</item>
+        <item>What is the name of the national anthem?</item>
+        <item>The Star-Spangled Banner</item>
+        <item>When do we celebrate Independence Day?</item>
+        <item>July 4</item>
+        <item>Name two national U.S. Holidays</item>
+        <item>Christmas, Thanksgiving</item>
+    </string-array>
 </resources>
